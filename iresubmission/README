@@ -1,0 +1,3 @@
+Instructions :
+      Just execute the bash script (script.sh) and give the name of pdf directory as it's argument. 
+      Command -> bash script.sh Folder_Name
